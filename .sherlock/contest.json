@@ -1,0 +1,14 @@
+{
+  "title": "Aave",
+  "starts_at": "2023-01-09 15:00",
+  "ends_at": "2023-01-12 15:00",
+  "judging_ends_at": "2023-01-15 15:00",
+  "prize_pool": "10000",
+  "lead_senior_auditor_fixed_pay": "4000",
+  "short_description": "Aave is..",
+  "sponsor": "Aave",
+  "github_team": "aave",
+  "lines_of_code": "~321",
+  "private": false,
+  "lead_senior_auditor_handle": "WATCHPUG"
+}
