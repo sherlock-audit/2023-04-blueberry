@@ -1,0 +1,13 @@
+{
+  "compilerType": "solcjs",
+  "compilerVersion": "0.8.16",
+  "sourceDirectory": "./contracts",
+  "outputDirectory": "./build",
+  "compilerOptions": {
+    "evmVersion": "constantinople",
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    }
+  }
+}

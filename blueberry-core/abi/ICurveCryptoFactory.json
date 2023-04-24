@@ -1,0 +1,21 @@
+[
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "lp",
+        "type": "address"
+      }
+    ],
+    "name": "get_coins",
+    "outputs": [
+      {
+        "internalType": "address[2]",
+        "name": "",
+        "type": "address[2]"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
